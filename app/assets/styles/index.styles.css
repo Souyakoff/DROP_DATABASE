@@ -1,23 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
 body {
     margin: 0;
     position: relative;
     overflow: hidden;
 }
+
+/* Partie video */
 #video {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
+
+/* Partie titre */
 .title {
     position: absolute;
-    top: 10%; /* Ajustez la position selon vos besoins */
+    top: 20%; 
     left: 50%;
     transform: translateX(-50%);
-    font-family: 'Rubik Doodle Shadow';
-    font-size: 36px; /* Ajustez la taille de la police selon vos besoins */
-    color: white; /* Couleur du texte */
-    z-index: 10; /* Assurez-vous que le titre est au-dessus de la vidéo */
+    font-family: "Luckiest Guy";
+    font-size: 58px; 
+    color: white; 
+    z-index: 10; 
+    font-weight: bold;
 }
+/* Partie bouton */
 .start-button {
     position: absolute;
     top: 50%;
@@ -25,6 +33,7 @@ body {
     transform: translate(-50%, -50%);
     padding: 30px 45px;
     font-size: 30px;
+    font-weight: bold;
     color: white;
     background-color: rgba(50, 50, 50, 0.7);
     border: none;
