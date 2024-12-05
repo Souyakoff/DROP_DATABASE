@@ -1,0 +1,541 @@
+[
+    {
+      "id": 1,
+      "question": "L'activité humaine contribue-t-elle à la pollution des océans ?",
+      "response": "Oui",
+      "level": "soft"
+    },
+    {
+      "id": 2,
+      "question": "Les déchets plastiques déversés dans les océans affectent-ils l'écosystème marin ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 3,
+      "question": "L'augmentation de la température des océans a-t-elle un impact similaire sur la santé humaine ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 4,
+      "question": "La pollution chimique des océans peut-elle affecter le corps humain par la chaîne alimentaire ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 5,
+      "question": "L'industrialisation des côtes contribue-t-elle à la dégradation des océans et de la biodiversité marine ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 6,
+      "question": "Les océans peuvent-ils être comparés à un corps humain en termes de système interconnecté et vulnérable ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 7,
+      "question": "Les pratiques humaines, comme la surpêche, ont-elles un effet dévastateur sur la santé des océans ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 8,
+      "question": "Le réchauffement des océans, causé par les émissions humaines, entraîne-t-il des perturbations dans les systèmes vitaux marins, comme le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 9,
+      "question": "L'acidification des océans, causée par l'excès de CO2, peut-elle être comparée à l'impact de l'acidose dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 10,
+      "question": "La pollution plastique peut-elle être vue comme une forme d'empoisonnement progressif des océans et du corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 11,
+      "question": "Les changements dans la biodiversité des océans peuvent-ils être comparés à la perte de diversité cellulaire dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 12,
+      "question": "Les zones mortes dans les océans, créées par la pollution, peuvent-elles être comparées aux lésions tissulaires dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 13,
+      "question": "Les maladies des écosystèmes océaniques peuvent-elles affecter la santé de l'Homme de manière similaire aux maladies organiques ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 14,
+      "question": "L'épuisement des ressources marines dû à la surpêche affecte-t-il l'équilibre des océans, tout comme un épuisement des ressources internes peut affecter le corps humain ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 15,
+      "question": "Les efforts pour réduire la pollution des océans sont-ils cruciaux pour préserver la santé de l'Homme ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 16,
+      "question": "Les microplastiques ingérés par les océans peuvent-ils affecter la santé humaine de manière similaire à l'absorption de toxines par le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 17,
+      "question": "Le réchauffement des océans peut-il affecter la santé humaine, notamment par la prolifération d'agents pathogènes marins ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 18,
+      "question": "La déforestation côtière, causée par l'Homme, contribue-t-elle à la détérioration de l'habitat marin, similaire à la destruction des tissus corporels ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 19,
+      "question": "Les toxines présentes dans l'océan peuvent-elles pénétrer dans le corps humain à travers la consommation de fruits de mer ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 20,
+      "question": "L'océan peut-il se régénérer après des dommages causés par l'Homme, comme un corps humain peut guérir après des blessures ?",
+      "response": "Non",
+      "level": "hard"
+    },
+    {
+      "id": 21,
+      "question": "Les océans ont-ils la capacité de nettoyer naturellement la pollution, comme le corps humain peut éliminer les toxines ?",
+      "response": "Non",
+      "level": "hard"
+    },
+    {
+      "id": 22,
+      "question": "Les océans sont-ils capables de maintenir leur équilibre même en présence d'une forte pollution humaine, de manière similaire à un corps humain en bonne santé ?",
+      "response": "Non",
+      "level": "hard"
+    },
+    {
+      "id": 23,
+      "question": "Les océans, comme le corps humain, peuvent-ils résister aux effets à long terme de la pollution humaine ?",
+      "response": "Non",
+      "level": "hard"
+    },
+    {
+      "id": 24,
+      "question": "Les efforts humains pour restaurer les océans peuvent-ils améliorer leur santé, tout comme les traitements médicaux peuvent restaurer la santé humaine ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 25,
+      "question": "La pollution marine peut-elle être comparée à une maladie systémique qui affecte l'ensemble des écosystèmes marins, de la même manière qu'une maladie peut affecter tout le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 26,
+      "question": "L'impact de l'Homme sur l'océan est-il similaire à la manière dont des comportements nuisibles affectent la santé du corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+
+    {
+      "id": 27,
+      "question": "La pollution des océans par le plastique a-t-elle des effets sur la santé humaine via l'ingestion de produits marins ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 28,
+      "question": "L'acidification des océans a-t-elle des conséquences similaires à l'acidose dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 29,
+      "question": "L'élévation du niveau de la mer causée par le réchauffement climatique a-t-elle un impact direct sur les populations humaines ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 30,
+      "question": "Les océans, tout comme le corps humain, sont-ils affectés par l'excès de toxines introduites par des actions humaines ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 31,
+      "question": "Les habitats marins peuvent-ils être comparés à des organes vitaux du corps humain, nécessaires à l'équilibre global ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 32,
+      "question": "Le déversement de produits chimiques dans les océans peut-il affecter la santé de l'Homme de manière similaire à l'empoisonnement interne ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 33,
+      "question": "La surpêche a-t-elle un impact sur l'équilibre des océans similaire à la manière dont une alimentation déséquilibrée affecte la santé humaine ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 34,
+      "question": "Les polluants organiques persistants affectent-ils les océans de la même manière qu'ils affectent le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 35,
+      "question": "La contamination des océans par les métaux lourds présente-t-elle des dangers pour la santé humaine, comme les toxines qui affectent le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 36,
+      "question": "La perte de biodiversité marine a-t-elle des effets similaires à la perte de diversité cellulaire dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 37,
+      "question": "Les océans peuvent-ils être considérés comme un système circulatoire, où chaque élément est interconnecté pour maintenir la santé globale, tout comme le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 38,
+      "question": "La pollution sonore sous-marine a-t-elle des effets nuisibles sur les écosystèmes marins, similaires aux effets du bruit excessif sur le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+     "id": 39,
+      "question": "Les températures extrêmes dans les océans peuvent-elles affecter l'équilibre écologique, de la même manière que des conditions extrêmes peuvent perturber le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 40,
+      "question": "L'impact de la pollution marine est-il plus grave pour la santé humaine dans les régions côtières ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 41,
+      "question": "Les océans jouent-ils un rôle dans la régulation des gaz à effet de serre, tout comme les poumons régulent les gaz dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 42,
+      "question": "La réduction de la pollution des océans pourrait-elle avoir un effet positif sur la santé humaine, tout comme un mode de vie sain améliore la santé corporelle ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 43,
+      "question": "Les océans sont-ils essentiels à la régulation climatique mondiale, comme le corps humain est dépendant de la régulation interne pour rester en bonne santé ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 44,
+      "question": "Les effets de la pollution océanique sont-ils irréversibles, tout comme certaines maladies peuvent être irréversibles dans le corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 45,
+      "question": "Les efforts humains pour restaurer les océans peuvent-ils être comparés à des traitements médicaux visant à restaurer la santé du corps humain ?",
+      "response": "Oui",
+      "level": "mid"
+    },
+    {
+      "id": 46,
+      "question": "Les changements rapides dans l'océan, tels que l'augmentation de la température, affectent-ils la biodiversité marine comme un choc rapide affecte la santé du corps humain ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+      "id": 47,
+      "question": "La pollution marine a-t-elle un effet à long terme sur l'Homme, tout comme des habitudes de vie nuisibles affectent la santé à long terme ?",
+      "response": "Oui",
+      "level": "hard"
+    },
+    {
+        "id": 27,
+        "question": "La pollution des océans par le plastique a-t-elle des effets sur la santé humaine via l'ingestion de produits marins ?",
+        "response": "Oui",
+        "level": "hardhard"
+      },
+      {
+        "id": 28,
+        "question": "L'acidification des océans a-t-elle des conséquences similaires à l'acidose dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 29,
+        "question": "L'élévation du niveau de la mer causée par le réchauffement climatique a-t-elle un impact direct sur les populations humaines ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 30,
+        "question": "Les océans, tout comme le corps humain, sont-ils affectés par l'excès de toxines introduites par des actions humaines ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 31,
+        "question": "Les habitats marins peuvent-ils être comparés à des organes vitaux du corps humain, nécessaires à l'équilibre global ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 32,
+        "question": "Le déversement de produits chimiques dans les océans peut-il affecter la santé de l'Homme de manière similaire à l'empoisonnement interne ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 33,
+        "question": "La surpêche a-t-elle un impact sur l'équilibre des océans similaire à la manière dont une alimentation déséquilibrée affecte la santé humaine ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 34,
+        "question": "Les polluants organiques persistants affectent-ils les océans de la même manière qu'ils affectent le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 35,
+        "question": "La contamination des océans par les métaux lourds présente-t-elle des dangers pour la santé humaine, comme les toxines qui affectent le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 36,
+        "question": "La perte de biodiversité marine a-t-elle des effets similaires à la perte de diversité cellulaire dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 37,
+        "question": "Les océans peuvent-ils être considérés comme un système circulatoire, où chaque élément est interconnecté pour maintenir la santé globale, tout comme le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 38,
+        "question": "La pollution sonore sous-marine a-t-elle des effets nuisibles sur les écosystèmes marins, similaires aux effets du bruit excessif sur le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 39,
+        "question": "Les températures extrêmes dans les océans peuvent-elles affecter l'équilibre écologique, de la même manière que des conditions extrêmes peuvent perturber le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 40,
+        "question": "L'impact de la pollution marine est-il plus grave pour la santé humaine dans les régions côtières ?",
+        "response": "Oui",
+        "level": "mid"
+      },
+      {
+        "id": 41,
+        "question": "Les océans jouent-ils un rôle dans la régulation des gaz à effet de serre, tout comme les poumons régulent les gaz dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 42,
+        "question": "La réduction de la pollution des océans pourrait-elle avoir un effet positif sur la santé humaine, tout comme un mode de vie sain améliore la santé corporelle ?",
+        "response": "Oui",
+        "level": "mid"
+      },
+      {
+        "id": 43,
+        "question": "Les océans sont-ils essentiels à la régulation climatique mondiale, comme le corps humain est dépendant de la régulation interne pour rester en bonne santé ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 44,
+        "question": "Les effets de la pollution océanique sont-ils irréversibles, tout comme certaines maladies peuvent être irréversibles dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 45,
+        "question": "Les efforts humains pour restaurer les océans peuvent-ils être comparés à des traitements médicaux visant à restaurer la santé du corps humain ?",
+        "response": "Oui",
+        "level": "mid"
+      },
+      {
+        "id": 46,
+        "question": "Les changements rapides dans l'océan, tels que l'augmentation de la température, affectent-ils la biodiversité marine comme un choc rapide affecte la santé du corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 47,
+        "question": "La pollution marine a-t-elle un effet à long terme sur l'Homme, tout comme des habitudes de vie nuisibles affectent la santé à long terme ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+  
+      {
+        "id": 48,
+        "question": "La pollution des océans par le plastique affecte-t-elle directement la chaîne alimentaire humaine ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 49,
+        "question": "Les océans peuvent-ils être considérés comme un système de filtration, à l'instar du système rénal dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 50,
+        "question": "L'exposition prolongée aux toxines marines peut-elle avoir des effets à long terme sur la santé humaine, de la même manière qu'une exposition à des produits chimiques dans l'air ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 51,
+        "question": "La pollution de l'océan a-t-elle des effets sur la qualité de l'air, tout comme la pollution terrestre affecte la santé pulmonaire ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 52,
+        "question": "Les océans, comme le corps humain, sont-ils vulnérables aux effets cumulés de la pollution ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 53,
+        "question": "Les marées noires peuvent-elles être comparées à des blessures internes graves, affectant à la fois les océans et la santé humaine ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 54,
+        "question": "L'augmentation du CO2 dans l'océan affecte-t-elle les océans et le corps humain de manière similaire, en perturbant l'équilibre chimique ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 55,
+        "question": "Les océans jouent-ils un rôle crucial dans la régulation de la température de la planète, comme le corps humain régule sa température interne ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 56,
+        "question": "Les efforts pour réduire la pollution des océans ont-ils des effets bénéfiques sur la santé humaine à long terme ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 57,
+        "question": "La dégradation des habitats marins peut-elle être comparée à la dégradation des organes dans le corps humain, affectant ainsi l'ensemble du système ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 58,
+        "question": "La gestion des déchets en mer est-elle aussi importante que la gestion des déchets corporels pour maintenir un environnement sain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 59,
+        "question": "Les dommages causés par la pollution plastique dans les océans peuvent-ils être comparés aux dommages causés par les toxines dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 60,
+        "question": "L'impact de la pollution sur les océans affecte-t-il les générations futures, comme les problèmes de santé affectent la descendance humaine ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 61,
+        "question": "Les océans, comme le corps humain, ont-ils une capacité de régénération limitée face à une pollution continue ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 62,
+        "question": "Les océans sont-ils capables de filtrer les polluants à un rythme similaire à celui du corps humain, qui élimine les toxines par des processus comme la transpiration ?",
+        "response": "Non",
+        "level": "hard"
+      },
+      {
+        "id": 63,
+        "question": "Les océans subissent-ils une forme de stress similaire à celui du corps humain sous l'effet de la pollution et des changements environnementaux ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 64,
+        "question": "Les systèmes marins peuvent-ils se stabiliser après des perturbations majeures, de la même manière qu'un corps humain peut se rétablir après une blessure ?",
+        "response": "Non",
+        "level": "hard"
+      },
+      {
+        "id": 65,
+        "question": "La pollution sonore affecte-t-elle les océans de la même manière que la pollution sonore affecte le bien-être humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 66,
+        "question": "Les toxines marines peuvent-elles se propager dans l'environnement humain, tout comme une infection peut se propager dans le corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 67,
+        "question": "La surpopulation humaine dans les zones côtières contribue-t-elle à la dégradation des océans, tout comme une surpopulation peut nuire à la santé du corps humain ?",
+        "response": "Oui",
+        "level": "hard"
+      },
+      {
+        "id": 68,
+        "question": "La santé des océans est-elle aussi vitale pour l'équilibre climatique mondial que la santé du corps humain l'est pour le bien-être individuel ?",
+        "response": "Oui",
+        "level": "hard"
+      }
+]
+      
+ 
+  
