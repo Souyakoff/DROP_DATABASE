@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz des Profondeurs Marines</title>
+    <link rel="stylesheet" href="assets/styles/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="bubble-container"></div>
+    <div class="game-container">
+        <!-- Quiz Header -->
+        <div class="quiz-header">
+            <div class="progress">Question <span id="current-question">1</span>/25</div>
+        </div>
+
+        <!-- Main Game Area -->
+        <div class="game-area">
+            <!-- Add these elements -->
+            <div class="marine-life"></div>
+            <div class="particles"></div>
+            <div class="depth-overlay" id="depth-overlay"></div>
+            
+            <!-- Rest of your game-area content -->
+            <div class="question-card">
+                <p id="question-text">Chargement de la question...</p>
+                <div class="answer-buttons">
+                    <button class="btn true-btn">Vrai</button>
+                    <button class="btn false-btn">Faux</button>
+                </div>
+                <button class="btn next-btn" style="display: none;">Question Suivante</button>
+                <!-- Cloud Popup -->
+                <div class="cloud-popup" id="fact-popup">
+                    <p id="fact-text"></p>
+                </div>
+            </div>
+
+            <!-- Diver Section (Right) -->
+            <div class="diver-container">
+                <div class="diver" id="diver"></div>
+                <div class="depth-overlay" id="depth-overlay"></div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/scripts/questions.js"></script>
+    <script src="assets/scripts/script.js"></script>
+</body>
+</html> 
