@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz sur la pollution des océans</title>
+</head>
+<style>
+    /* Styles de base pour le corps de la page */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7fc;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #333;
+}
+
+/* Conteneur principal du quiz */
+#quiz {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  text-align: center;
+  width: 400px;
+  box-sizing: border-box;
+}
+
+/* Style pour le titre de la question */
+#question {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #2d3e50;
+}
+
+/* Style pour les boutons de réponse */
+#options button {
+  background-color: #2d3e50;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  margin: 10px;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#options button:hover {
+  background-color: #1f2a37;
+}
+
+/* Style pour les résultats */
+#results {
+  font-size: 20px;
+  margin-top: 30px;
+  font-weight: bold;
+  color: #2d3e50;
+}
+
+/* Styles pour les écrans plus larges */
+@media (min-width: 768px) {
+  #quiz {
+    width: 500px;
+    padding: 40px;
+  }
+
+  #question {
+    font-size: 28px;
+  }
+
+  #options button {
+    font-size: 20px;
+    padding: 20px 40px;
+  }
+}
+
+</style>
+<body>
+  <div id="quiz">
+    <div id="level"></div>
+    <div id="question"></div>
+    <div id="detail"></div>
+    <div id="options"></div>
+    <div id="results"></div>
+    
+  </div>
+
+  <script src="quizz.js"></script>
+</body>
+</html>

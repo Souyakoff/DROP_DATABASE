@@ -1,0 +1,6 @@
+[
+    { "question": "Le ciel est-il bleu ?", "answer": true },
+    { "question": "2 + 2 = 5 ?", "answer": false },
+    { "question": "L'eau bout-elle à 100°C ?", "answer": true },
+    { "question": "La Terre est-elle plate ?", "answer": false }
+]
