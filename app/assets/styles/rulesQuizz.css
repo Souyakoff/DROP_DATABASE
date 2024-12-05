@@ -1,0 +1,52 @@
+
+/* Mise en page générale */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+/* Carte contenant le contenu */
+.card {
+    width: 800px;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* Titre de la carte */
+    .card h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+/* Paragraphes */
+.card p {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
+/* Bouton */
+.card button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #053a73;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+/* Style du bouton au survol */
+    .card button:hover {
+    background-color: #0056b3;
+}
+  
+  
