@@ -35,12 +35,15 @@ body {
     font-size: 30px;
     font-weight: bold;
     color: white;
-    background-color: rgba(50, 50, 50, 0.7);
+    background-color: rgba(32, 32, 32, 0.9);
     border: none;
     border-radius: 5px;
     cursor: pointer;
     z-index: 10;
+    transition: transform 0.5s, filter 0.5s;
+    filter: blur(80);
 }
 .start-button:hover {
-    background-color: rgba(32, 32, 32, 0.9);
+    background-color: rgba(50, 50, 50, 0.7);
+    transform: translate(-50%, -50%) scale(1.1);
 }
