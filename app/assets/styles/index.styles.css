@@ -164,20 +164,6 @@
     width: 297px;
 }
 
-.dolphin{
-	animation: fish 15s linear infinite;
-	background-repeat: no-repeat;
-	bottom: 45px;
-	height: 80px;
-	left: 20%;
-	position: absolute;
-	width: 124px;
-	z-index: 9;
-}
-
-
-
-
 
 /*Animation Keyframe Section*/
 
