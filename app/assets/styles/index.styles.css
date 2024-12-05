@@ -8,6 +8,16 @@ body {
     height: 100%;
     object-fit: cover;
 }
+.title {
+    position: absolute;
+    top: 10%; /* Ajustez la position selon vos besoins */
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Rubik Doodle Shadow';
+    font-size: 36px; /* Ajustez la taille de la police selon vos besoins */
+    color: white; /* Couleur du texte */
+    z-index: 10; /* Assurez-vous que le titre est au-dessus de la vidéo */
+}
 .start-button {
     position: absolute;
     top: 50%;
