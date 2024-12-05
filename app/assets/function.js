@@ -20,7 +20,7 @@ function displayRandomCard() {
     const randomIndex = Math.floor(Math.random() * data.length); // Choisir un index aléatoire
     const cardData = data[randomIndex]; // Récupérer l'objet correspondant
 
-    // Construire le contenu de la carte
+    // Construire le contenu de la carte . ('card') Fait référence a la div nommé "card" en Html , correspondant a la carte ou l'on affiche les données
     const cardContainer = document.getElementById('card');
     cardContainer.innerHTML = `
         <h3>${cardData.titre}</h3>
