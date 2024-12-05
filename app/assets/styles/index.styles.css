@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+}
+#video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the video covers the entire area */
+}
+.start-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px 30px;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 10; /* Ensures the button is above the video */
+}
+.start-button:hover {
+    background-color: rgba(0, 0, 0, 0.9); /* Darker background on hover */
+}
