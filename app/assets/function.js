@@ -23,8 +23,8 @@ function displayRandomCard() {
     // Construire le contenu de la carte . ('card') Fait référence a la div nommé "card" en Html , correspondant a la carte ou l'on affiche les données
     const cardContainer = document.getElementById('card');
     cardContainer.innerHTML = `
-        <h3>${cardData.titre}</h3>
-        <p>${cardData.contenu}</p>
+        <h3>${cardData.title}</h3>
+        <p>${cardData.content}</p>
     `;
 }
 
