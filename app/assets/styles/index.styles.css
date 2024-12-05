@@ -13,6 +13,14 @@ body {
     object-fit: cover;
 }
 
+/* Partie logo */
+.logo {
+    position: absolute;
+    top: 10px; 
+    left: 10px;
+    width: 15%;
+}
+
 /* Partie titre */
 .title {
     position: absolute;
@@ -20,7 +28,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     font-family: "Luckiest Guy";
-    font-size: 58px; 
+    font-size: 66px; 
     color: white; 
     z-index: 10; 
     font-weight: bold;
