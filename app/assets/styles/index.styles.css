@@ -85,7 +85,7 @@
 }
 
 .water ul.waves li.wave-one{
-	animation: wave 8.7s linear infinite;
+	animation: wave-reverse 8.7s linear infinite;
 	-webkit-animation-fill-mode: forwards;
 	-o-animation-fill-mode: forwards;
 	animation-fill-mode: forwards;
@@ -101,7 +101,7 @@
 	-webkit-animation-fill-mode: forwards;
 	-o-animation-fill-mode: forwards;
 	animation-fill-mode: forwards;
-	animation: wave 10s linear infinite;
+	animation: wave-reverse 10s linear infinite;
 	bottom: 0px;
 	height: 84px;
 	left: 0;
@@ -114,7 +114,7 @@
 	-webkit-animation-fill-mode: forwards;
 	-o-animation-fill-mode: forwards;
 	animation-fill-mode: forwards;
-	animation: wave 25s linear infinite;
+	animation: wave-reverse 25s linear infinite;
 	bottom: 0;
 	height: 190px;
 	left: 0;
@@ -127,7 +127,7 @@
 	-webkit-animation-fill-mode: forwards;
 	-o-animation-fill-mode: forwards;
 	animation-fill-mode: forwards;
-	animation: wave 25s linear infinite;
+	animation: wave-reverse 25s linear infinite;
 	bottom: 0;
 	height: 205px;
 	left: 0;
@@ -136,17 +136,17 @@
 }
 
 .boat{
-	animation: boat 3s linear infinite;
+	animation: boat-reverse 3s linear infinite;
     background-repeat: no-repeat;
     bottom: 175px;
     height: 145px;
-    left: 50%;
+    left: 8%;
 	position: absolute;
     width: 250px;
 }
 
 .cloud{
-	animation: cloud 30s linear infinite;
+	animation: cloud-reverse 30s linear infinite;
 	background-repeat: no-repeat;
     height: 165px;
     left: 0;
@@ -155,7 +155,7 @@
 }
 
 .cloud2{
-	animation: cloud 25s linear infinite;
+	animation: cloud-reverse 25s linear infinite;
 	background-repeat: no-repeat;
     bottom: 320px;
     height: 165px;
@@ -167,23 +167,23 @@
 
 /*Animation Keyframe Section*/
 
-@keyframes wave{
+@keyframes wave-reverse{
     0% {
-        background-position: 0 0;
+        background-position: 1920px 0;
 	}
 
     100% {
-        background-position: 1920px 0;
+        background-position: 0 0;
     }
 }
 
-@keyframes boat{
+@keyframes boat-reverse{
 	0%{
 		transform: rotate(0);
 	}
 
 	50%{
-		transform: rotate(-3deg);
+		transform: rotate(3deg);
 	}
 
 	100%{
@@ -191,12 +191,12 @@
 	}
 }
 
-@keyframes cloud{
+@keyframes cloud-reverse{
 	0%{
-		left: -30%;
+		left: 100%;
 	}
 
 	100%{
-		left: 100%;
+		left: -30%;
 	}
 }
