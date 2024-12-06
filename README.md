@@ -1,6 +1,6 @@
 # 🌊 Quiz des Profondeurs Marines
 
-![Logo Ocean](assets/images/logo_ocean.png)
+![Logo Ocean](app/assets/images/logo_ocean.png)
 
 Un quiz interactif et éducatif sur la vie marine et la protection des océans, avec une expérience utilisateur immersive et des animations fluides.
 
