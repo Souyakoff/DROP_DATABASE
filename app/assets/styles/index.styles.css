@@ -165,6 +165,7 @@
 }
 
 
+
 /*Animation Keyframe Section*/
 
 @keyframes wave-reverse{
@@ -199,4 +200,16 @@
 	100%{
 		left: -30%;
 	}
+}
+
+@keyframes move-boat {
+    0% {
+        left: 8%;
+    }
+    100% {
+        left: 100%;
+    }
+}
+.move {
+    animation: move-boat 6s forwards;
 }
